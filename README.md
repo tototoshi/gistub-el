@@ -2,7 +2,7 @@
 
 ## Setup
 
-```
+```lisp
 (require 'gistub)
 ```
 
